@@ -1,0 +1,24 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'E:/NetBeansProjects/Deposito/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/NetBeansProjects/Deposito/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Deposito 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'E:/NetBeansProjects/Deposito/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Deposito 1.0-SNAPSHOT API'
